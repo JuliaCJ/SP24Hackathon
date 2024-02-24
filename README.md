@@ -14,7 +14,7 @@ All of our solution information can be found within this GitHub Repository.
 
 [CloseCarePresentation](CloseCarePresentation) is the presentation that went along with our demo.
 
-[CloseCareArtifacts](CloseCareArtifacts) contains our developmental artifacts.
+[CloseCareArtifacts](CloseCareArtifacts.pdf) contains our developmental artifacts.
 
 [AppMockUP](AppMockUp) contains a mock up of what we would like our app to look like in the future. 
 
