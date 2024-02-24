@@ -1,4 +1,4 @@
-# SP24Hackathon
+# SP24Hackathon-Team A31
 
 Welcome to Team A31's Hackathon Solution! 
 
