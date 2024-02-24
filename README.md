@@ -16,6 +16,8 @@ All of our solution information can be found within this GitHub Repository.
 
 [CloseCareArtifacts](CloseCareArtifacts) contains our developmental artifacts.
 
+[AppMockUP](AppMockUp) contains a mock up of what we would like our app to look like in the future. 
+
 Thank you to Assurant for sponsoring us! We hope you enjoy our solution to this challenge.
 
 
