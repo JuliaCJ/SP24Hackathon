@@ -10,11 +10,11 @@ Joe is a homeless, disabled, veteren. Mary is a single mother with food insecuri
 
 All of our solution information can be found within this GitHub Repository.
 
-[a relative link](Hackathin-SP2024) contains all of the code for our MVP.
+[Hackathon-SP2024](Hackathin-SP2024) contains all of the code for our MVP.
 
 [LINK] is the presentation that went along with our demo.
 
-[LINK] contains our developmental artifacts.
+[CloseCareArtifacts](CloseCareArtifacts) contains our developmental artifacts.
 
 Thank you to Assurant for sponsoring us! We hope you enjoy our solution to this challenge.
 
