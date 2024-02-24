@@ -12,7 +12,7 @@ All of our solution information can be found within this GitHub Repository.
 
 [Hackathon-SP2024](Hackathon-SP2024) contains all of the code for our MVP.
 
-[LINK] is the presentation that went along with our demo.
+[CloseCarePresentation](CloseCarePresentation) is the presentation that went along with our demo.
 
 [CloseCareArtifacts](CloseCareArtifacts) contains our developmental artifacts.
 
